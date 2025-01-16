@@ -1,0 +1,14 @@
+[ 
+  {
+    "title": "Español",
+    "imageSrc": "./assets/cv_espanol.png",
+    "url": "https://www.canva.com/design/DAFyOTaDtSw/NTFyKEsBnChLE0NJ7cl_uw/view?utm_content=DAFyOTaDtSw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc2dd70c0f0",
+    "category": "Español"
+  },
+  {
+    "title": "English",
+    "imageSrc": "./assets/cv_english.png",
+    "url": "https://www.canva.com/design/DAGEWeEIiEg/yzuskeVnhUYZm4LjWdTa4A/view?utm_content=DAGEWeEIiEg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h29320ab0ee",
+    "category": "English"
+  }
+]
