@@ -1,6 +1,5 @@
 {
   "name": "website_opensource",
-  "homepage":"https://jpromano.net/opensource/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
