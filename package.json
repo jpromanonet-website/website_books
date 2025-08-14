@@ -1,5 +1,6 @@
 {
-  "name": "website_opensource",
+  "name": "website_books",
+  "homepage": "https://jpromano.net/mybooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
